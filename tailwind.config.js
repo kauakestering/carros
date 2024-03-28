@@ -14,10 +14,10 @@ export default {
       'offwhitebg':'#f2f2f2',
       'orange1': '#e28625',
     },
-    fontFamily> {
-      'shoulders': "Big Shoulders Display",
-      'lexend':"Lexend Deca"
-    }
+    fontFamily: {
+      'shoulders': ['Big Shoulders Display', 'sans'],
+      'lexend':"Lexend Deca",
+    },
   },
   plugins: [],
 }
